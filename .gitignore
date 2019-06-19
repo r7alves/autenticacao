@@ -1,4 +1,11 @@
 /bootstrap/compiled.php
-.env.*.php
-.env.php
+/vendor
+.DS_Store
 .env
+.env.testing
+.phpunit.result.cache
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
+composer.lock
